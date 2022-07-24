@@ -2,13 +2,13 @@
 
 
 
- <h1 align="center">Oi!! Eu sou  <a href="https://www.linkedin.com/in/mayara-sousa-0796b1227/"><i>Mayara Alcantara</i>
+ <h1 align="center"><a href="https://www.linkedin.com/in/mayara-sousa-0796b1227/"><i>Mayara Alcantara</i>
  <br>
 <br>
 
 <div>
   <a href="https://github.com/mayara-alcantara">
-  <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mayara-alcantara&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mayara-alcantara&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
  <!--  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayara-alcantara&layout=compact&langs_count=7&theme=react" />-->
 
   <img align="center" width="148" height="140" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
@@ -24,8 +24,5 @@
   <img align="center" alt="Mayara-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
  
 </div>
-  
-<div align="center">
-  
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+
