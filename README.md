@@ -3,9 +3,7 @@
 
 
 
-🌱 Estudando JAVA e SPRING BOOT ...
-
-
+ <h1 align="center">Oi!! Eu sou  <a href="https://www.linkedin.com/in/mayara-sousa-0796b1227/"><i>Mayara Alcantara</i>
 
 ## Estudante de tecnologia em constante evolução!
 <div>
@@ -27,3 +25,8 @@
  
 </div>
   
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
