@@ -1,11 +1,11 @@
 
-### Olá! Eu sou a Mayara Alcantara
 
 
 
  <h1 align="center">Oi!! Eu sou  <a href="https://www.linkedin.com/in/mayara-sousa-0796b1227/"><i>Mayara Alcantara</i>
+ <br>
+<br>
 
-## Estudante de tecnologia em constante evolução!
 <div>
   <a href="https://github.com/mayara-alcantara">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mayara-alcantara&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
