@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos relacionados 
 
 # 🌟 Sobre Mim
 
-💻 Formado em: Análise e Desenvolvimento de Sistemas
+💻 Formada em: Análise e Desenvolvimento de Sistemas
 
 🎓 Pós-graduação em: Business Intelligence, Big Data e Analytics
 
