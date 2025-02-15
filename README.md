@@ -18,6 +18,8 @@ Frameworks e Bibliotecas: FastAPI, Pandas, Plotly
 
 Banco de Dados: PostgreSQL, MySql
 
+Ferramentas: Power BI, Excel
+
 # 👀 Onde me encontrar
 
 LinkedIn: https://www.linkedin.com/in/mayalcan
