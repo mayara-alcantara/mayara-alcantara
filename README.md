@@ -25,7 +25,7 @@ Ferramentas: Power BI, Excel
 LinkedIn: https://www.linkedin.com/in/mayalcan
  
 
-## 🛠️ Tecnologias e Ferramentas  
+# 🛠️ Tecnologias e Ferramentas  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
@@ -37,7 +37,7 @@ LinkedIn: https://www.linkedin.com/in/mayalcan
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayara-alcantara&layout=compact&langs_count=6&theme=radical)
 
