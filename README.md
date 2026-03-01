@@ -35,7 +35,5 @@ LinkedIn: https://www.linkedin.com/in/mayalcan
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 
-# 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayara-alcantara&layout=compact&langs_count=6&theme=radical)
 
