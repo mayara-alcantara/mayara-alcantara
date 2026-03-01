@@ -14,7 +14,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos relacionados 
 
 Linguagens: Python, SQL 
 
-Frameworks e Bibliotecas: FastAPI, Pandas, Plotly
 
 Banco de Dados: PostgreSQL, MySql
 
@@ -30,7 +29,6 @@ LinkedIn: https://www.linkedin.com/in/mayalcan
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)    
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
